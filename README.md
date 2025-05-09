@@ -1,4 +1,4 @@
-# Ant Design Form Example
+# React + Assignment
 
 This project demonstrates a simple usage of [Ant Design](https://ant.design/) components within a React application. The form includes basic fields such as name, email, and password, with validation.
 
